@@ -1,0 +1,291 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Admin.master.cs" Inherits="OnlineGymStore.Pages.Admin.Admin" %>
+
+
+
+<!DOCTYPE html>
+<html>
+<head runat="server">
+    <title>Admin Panel | Online Gym Shop</title>
+    <asp:ContentPlaceHolder ID="head" runat="server"></asp:ContentPlaceHolder>
+    <style>
+        :root {
+            --sidebar-width: 250px;
+            --header-height: 60px;
+            --primary-color: black;
+            --secondary-color: #ff6b00;
+            --light-color: #f8f9fa;
+            --dark-color: #343a40;
+            --transition-speed: 0.3s;
+        }
+
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        }
+
+        body {
+            background-color: ghostwhite;
+            color: #333;
+            overflow-x: hidden;
+        }
+
+        #form1 {
+            display: flex;
+            min-height: 100vh;
+        }
+
+        /* Sidebar Styles */
+        .admin-sidebar {
+            width: var(--sidebar-width);
+            background-color: var(--primary-color);
+            color: white;
+            height: 100vh;
+            position: fixed;
+            transition: all var(--transition-speed) ease;
+            z-index: 1000;
+        }
+
+        .sidebar-header {
+            padding: 20px;
+            background-color: rgba(0, 0, 0, 0.1);
+            text-align: center;
+            border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+        }
+
+            .sidebar-header h3 {
+                color: white;
+                font-size: 1.2rem;
+            }
+
+        .sidebar-menu {
+            padding: 20px 0;
+            background-color: black;
+        }
+
+        .menu-item {
+            display: flex;
+            align-items: center;
+            padding: 12px 20px;
+            color: rgba(255, 255, 255, 0.8);
+            text-decoration: none;
+            transition: all 0.2s ease;
+            border-left: 3px solid transparent;
+        }
+
+            .menu-item:hover {
+                background-color: rgba(0, 0, 0, 0.1);
+                color: white;
+                border-left: 3px solid var(--secondary-color);
+            }
+
+            .menu-item.active {
+                background-color: rgba(0, 0, 0, 0.2);
+                color: white;
+                border-left: 3px solid var(--secondary-color);
+            }
+
+            .menu-item i {
+                margin-right: 10px;
+                font-size: 18px;
+            }
+
+        /* Main Content Area */
+        .main-content {
+            flex: 1;
+            margin-left: var(--sidebar-width);
+            min-height: 100vh;
+            transition: all var(--transition-speed) ease;
+        }
+
+        /* Admin Header */
+        .admin-header {
+            height: var(--header-height);
+            background-color: white;
+            box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            padding: 0 20px;
+            position: sticky;
+            top: 0;
+            z-index: 100;
+        }
+
+        .user-info {
+            display: flex;
+            align-items: center;
+            position: relative;
+        }
+
+            .user-info img {
+                width: 40px;
+                height: 40px;
+                border-radius: 50%;
+                margin-right: 10px;
+            }
+
+        .user-dropdown {
+            position: relative;
+            display: inline-block;
+            cursor: pointer;
+        }
+
+        .dropdown-content {
+            display: none;
+            position: absolute;
+            right: 0;
+            top: 100%;
+            background-color: #f9f9f9;
+            min-width: 160px;
+            box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+            z-index: 1;
+            border-radius: 4px;
+        }
+
+            .dropdown-content a {
+                color: black;
+                padding: 12px 16px;
+                text-decoration: none;
+                display: block;
+            }
+
+                .dropdown-content a:hover {
+                    background-color: #f1f1f1;
+                }
+
+        .user-dropdown:hover .dropdown-content {
+            display: block;
+        }
+
+        /* Content Container */
+        .content-container {
+            padding: 20px;
+        }
+
+        .page-title {
+            margin-bottom: 20px;
+            color: var(--primary-color);
+            font-size: 1.5rem;
+        }
+
+        /* Responsive Styles */
+        @media (max-width: 768px) {
+            .admin-sidebar {
+                width: 0;
+                overflow: hidden;
+            }
+
+                .admin-sidebar.active {
+                    width: var(--sidebar-width);
+                }
+
+            .main-content {
+                margin-left: 0;
+            }
+
+                .main-content.active {
+                    margin-left: var(--sidebar-width);
+                }
+        }
+
+        /* Font Awesome for icons */
+        .fa {
+            display: inline-block;
+            font-style: normal;
+            font-variant: normal;
+            text-rendering: auto;
+            line-height: 1;
+            font-family: "Font Awesome 5 Free";
+            font-weight: 900;
+        }
+    </style>
+    <!-- Font Awesome -->
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css" rel="stylesheet" />
+</head>
+<body>
+    <form id="form1" runat="server">
+        <!-- Vertical Sidebar -->
+        <div class="admin-sidebar" id="adminSidebar">
+            <div class="sidebar-header">
+                <h3><i class="fas fa-dumbbell"></i>GymShop Admin</h3>
+            </div>
+
+            <div class="sidebar-menu">
+                <a href="Dashboard.aspx" class="menu-item active">
+                    <i class="fas fa-tachometer-alt"></i>Dashboard
+                </a>
+
+                <a href="ManageUsers.aspx" class="menu-item">
+                    <i class="fas fa-dumbbell"></i>Manage Users
+                </a>
+                <a href="ManageCategories.aspx" class="menu-item">
+                    <i class="fas fa-tags"></i>Manage Categories
+                </a>
+                <a href="ManageProduct.aspx" class="menu-item">
+                    <i class="fas fa-shopping-cart"></i>Manage Product
+                </a>
+                <a href="ManageOrders.aspx" class="menu-item">
+                    <i class="fas fa-users"></i>Manage Orders
+                </a>
+                <a href="ViewFeedback.aspx" class="menu-item">
+                    <i class="fas fa-comment"></i>View Feedback
+                    
+                </a>
+            </div>
+        </div>
+
+        <!-- Main Content Area -->
+        <div class="main-content" id="mainContent">
+            <!-- Admin Header -->
+            <header class="admin-header">
+                <button id="menuToggle" class="btn btn-link d-md-none">
+                    <i class="fas fa-bars"></i>
+                </button>
+
+                <div class="user-info">
+                    <div class="user-dropdown">
+
+                        <span>Admin User <i class="fas fa-chevron-down"></i></span>
+                        <div class="dropdown-content">
+
+                            <asp:LinkButton ID="btnLogout" runat="server" OnClick="btnLogout_Click">
+                                <i class="fas fa-sign-out-alt"></i> Logout
+                            </asp:LinkButton>
+                        </div>
+                    </div>
+                </div>
+            </header>
+
+            <!-- Content Placeholder -->
+            <div class="content-container">
+                <asp:ContentPlaceHolder ID="MainContent" runat="server">
+                </asp:ContentPlaceHolder>
+            </div>
+        </div>
+    </form>
+
+    <script>
+        // Toggle sidebar on mobile
+        document.getElementById('menuToggle').addEventListener('click', function () {
+            document.getElementById('adminSidebar').classList.toggle('active');
+            document.getElementById('mainContent').classList.toggle('active');
+        });
+
+        // Set active menu item based on current page
+        document.addEventListener('DOMContentLoaded', function () {
+            const currentPage = window.location.pathname.split('/').pop();
+            const menuItems = document.querySelectorAll('.menu-item');
+
+            menuItems.forEach(item => {
+                item.classList.remove('active');
+                if (item.getAttribute('href') === currentPage) {
+                    item.classList.add('active');
+                }
+            });
+        });
+    </script>
+</body>
+</html>
+

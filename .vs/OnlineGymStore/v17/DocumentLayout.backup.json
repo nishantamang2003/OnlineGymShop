@@ -1,0 +1,534 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Tech\\code\\NP069470\\NP069470\\OnlineGymStore\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0D997092-82D7-4130-A11C-23B754478F39}|OnlineGymStore\\OnlineGymStore.csproj|D:\\Tech\\code\\NP069470\\NP069470\\OnlineGymStore\\onlinegymstore\\pages\\admin\\dashboard.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{0D997092-82D7-4130-A11C-23B754478F39}|OnlineGymStore\\OnlineGymStore.csproj|solutionrelative:onlinegymstore\\pages\\admin\\dashboard.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D997092-82D7-4130-A11C-23B754478F39}|OnlineGymStore\\OnlineGymStore.csproj|D:\\Tech\\code\\NP069470\\NP069470\\OnlineGymStore\\onlinegymstore\\pages\\user\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{0D997092-82D7-4130-A11C-23B754478F39}|OnlineGymStore\\OnlineGymStore.csproj|solutionrelative:onlinegymstore\\pages\\user\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D997092-82D7-4130-A11C-23B754478F39}|OnlineGymStore\\OnlineGymStore.csproj|D:\\Tech\\code\\NP069470\\NP069470\\OnlineGymStore\\onlinegymstore\\pages\\user\\landingpage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{0D997092-82D7-4130-A11C-23B754478F39}|OnlineGymStore\\OnlineGymStore.csproj|solutionrelative:onlinegymstore\\pages\\user\\landingpage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D997092-82D7-4130-A11C-23B754478F39}|OnlineGymStore\\OnlineGymStore.csproj|d:\\tech\\code\\np069470\\np069470\\onlinegymstore\\onlinegymstore\\pages\\admin\\manageusers.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D997092-82D7-4130-A11C-23B754478F39}|OnlineGymStore\\OnlineGymStore.csproj|solutionrelative:onlinegymstore\\pages\\admin\\manageusers.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D997092-82D7-4130-A11C-23B754478F39}|OnlineGymStore\\OnlineGymStore.csproj|d:\\tech\\code\\np069470\\np069470\\onlinegymstore\\onlinegymstore\\pages\\user\\about.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{0D997092-82D7-4130-A11C-23B754478F39}|OnlineGymStore\\OnlineGymStore.csproj|solutionrelative:onlinegymstore\\pages\\user\\about.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D997092-82D7-4130-A11C-23B754478F39}|OnlineGymStore\\OnlineGymStore.csproj|D:\\Tech\\code\\NP069470\\NP069470\\OnlineGymStore\\onlinegymstore\\site.master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D997092-82D7-4130-A11C-23B754478F39}|OnlineGymStore\\OnlineGymStore.csproj|solutionrelative:onlinegymstore\\site.master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D997092-82D7-4130-A11C-23B754478F39}|OnlineGymStore\\OnlineGymStore.csproj|D:\\Tech\\code\\NP069470\\NP069470\\OnlineGymStore\\onlinegymstore\\site.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{0D997092-82D7-4130-A11C-23B754478F39}|OnlineGymStore\\OnlineGymStore.csproj|solutionrelative:onlinegymstore\\site.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D997092-82D7-4130-A11C-23B754478F39}|OnlineGymStore\\OnlineGymStore.csproj|D:\\Tech\\code\\NP069470\\NP069470\\OnlineGymStore\\onlinegymstore\\pages\\admin\\admin.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{0D997092-82D7-4130-A11C-23B754478F39}|OnlineGymStore\\OnlineGymStore.csproj|solutionrelative:onlinegymstore\\pages\\admin\\admin.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D997092-82D7-4130-A11C-23B754478F39}|OnlineGymStore\\OnlineGymStore.csproj|D:\\Tech\\code\\NP069470\\NP069470\\OnlineGymStore\\onlinegymstore\\pages\\user\\products.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D997092-82D7-4130-A11C-23B754478F39}|OnlineGymStore\\OnlineGymStore.csproj|solutionrelative:onlinegymstore\\pages\\user\\products.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D997092-82D7-4130-A11C-23B754478F39}|OnlineGymStore\\OnlineGymStore.csproj|D:\\Tech\\code\\NP069470\\NP069470\\OnlineGymStore\\onlinegymstore\\pages\\user\\products.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{0D997092-82D7-4130-A11C-23B754478F39}|OnlineGymStore\\OnlineGymStore.csproj|solutionrelative:onlinegymstore\\pages\\user\\products.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D997092-82D7-4130-A11C-23B754478F39}|OnlineGymStore\\OnlineGymStore.csproj|D:\\Tech\\code\\NP069470\\NP069470\\OnlineGymStore\\onlinegymstore\\pages\\user\\checkout.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{0D997092-82D7-4130-A11C-23B754478F39}|OnlineGymStore\\OnlineGymStore.csproj|solutionrelative:onlinegymstore\\pages\\user\\checkout.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D997092-82D7-4130-A11C-23B754478F39}|OnlineGymStore\\OnlineGymStore.csproj|D:\\Tech\\code\\NP069470\\NP069470\\OnlineGymStore\\onlinegymstore\\pages\\user\\cart.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{0D997092-82D7-4130-A11C-23B754478F39}|OnlineGymStore\\OnlineGymStore.csproj|solutionrelative:onlinegymstore\\pages\\user\\cart.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D997092-82D7-4130-A11C-23B754478F39}|OnlineGymStore\\OnlineGymStore.csproj|D:\\Tech\\code\\NP069470\\NP069470\\OnlineGymStore\\onlinegymstore\\scripts\\webforms\\gridview.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{0D997092-82D7-4130-A11C-23B754478F39}|OnlineGymStore\\OnlineGymStore.csproj|solutionrelative:onlinegymstore\\scripts\\webforms\\gridview.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D997092-82D7-4130-A11C-23B754478F39}|OnlineGymStore\\OnlineGymStore.csproj|D:\\Tech\\code\\NP069470\\NP069470\\OnlineGymStore\\onlinegymstore\\pages\\admin\\viewfeedback.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{0D997092-82D7-4130-A11C-23B754478F39}|OnlineGymStore\\OnlineGymStore.csproj|solutionrelative:onlinegymstore\\pages\\admin\\viewfeedback.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D997092-82D7-4130-A11C-23B754478F39}|OnlineGymStore\\OnlineGymStore.csproj|D:\\Tech\\code\\NP069470\\NP069470\\OnlineGymStore\\onlinegymstore\\pages\\user\\myorders.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{0D997092-82D7-4130-A11C-23B754478F39}|OnlineGymStore\\OnlineGymStore.csproj|solutionrelative:onlinegymstore\\pages\\user\\myorders.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D997092-82D7-4130-A11C-23B754478F39}|OnlineGymStore\\OnlineGymStore.csproj|D:\\Tech\\code\\NP069470\\NP069470\\OnlineGymStore\\onlinegymstore\\pages\\admin\\dashboard.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D997092-82D7-4130-A11C-23B754478F39}|OnlineGymStore\\OnlineGymStore.csproj|solutionrelative:onlinegymstore\\pages\\admin\\dashboard.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D997092-82D7-4130-A11C-23B754478F39}|OnlineGymStore\\OnlineGymStore.csproj|D:\\Tech\\code\\NP069470\\NP069470\\OnlineGymStore\\onlinegymstore\\pages\\admin\\manageorders.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D997092-82D7-4130-A11C-23B754478F39}|OnlineGymStore\\OnlineGymStore.csproj|solutionrelative:onlinegymstore\\pages\\admin\\manageorders.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D997092-82D7-4130-A11C-23B754478F39}|OnlineGymStore\\OnlineGymStore.csproj|D:\\Tech\\code\\NP069470\\NP069470\\OnlineGymStore\\onlinegymstore\\pages\\user\\checkout.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D997092-82D7-4130-A11C-23B754478F39}|OnlineGymStore\\OnlineGymStore.csproj|solutionrelative:onlinegymstore\\pages\\user\\checkout.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D997092-82D7-4130-A11C-23B754478F39}|OnlineGymStore\\OnlineGymStore.csproj|D:\\Tech\\code\\NP069470\\NP069470\\OnlineGymStore\\onlinegymstore\\pages\\user\\orderconfirmation.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{0D997092-82D7-4130-A11C-23B754478F39}|OnlineGymStore\\OnlineGymStore.csproj|solutionrelative:onlinegymstore\\pages\\user\\orderconfirmation.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D997092-82D7-4130-A11C-23B754478F39}|OnlineGymStore\\OnlineGymStore.csproj|D:\\Tech\\code\\NP069470\\NP069470\\OnlineGymStore\\onlinegymstore\\pages\\admin\\manageorders.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{0D997092-82D7-4130-A11C-23B754478F39}|OnlineGymStore\\OnlineGymStore.csproj|solutionrelative:onlinegymstore\\pages\\admin\\manageorders.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D997092-82D7-4130-A11C-23B754478F39}|OnlineGymStore\\OnlineGymStore.csproj|D:\\Tech\\code\\NP069470\\NP069470\\OnlineGymStore\\onlinegymstore\\pages\\user\\myorders.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D997092-82D7-4130-A11C-23B754478F39}|OnlineGymStore\\OnlineGymStore.csproj|solutionrelative:onlinegymstore\\pages\\user\\myorders.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D997092-82D7-4130-A11C-23B754478F39}|OnlineGymStore\\OnlineGymStore.csproj|D:\\Tech\\code\\NP069470\\NP069470\\OnlineGymStore\\onlinegymstore\\pages\\user\\login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D997092-82D7-4130-A11C-23B754478F39}|OnlineGymStore\\OnlineGymStore.csproj|solutionrelative:onlinegymstore\\pages\\user\\login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D997092-82D7-4130-A11C-23B754478F39}|OnlineGymStore\\OnlineGymStore.csproj|D:\\Tech\\code\\NP069470\\NP069470\\OnlineGymStore\\onlinegymstore\\pages\\user\\orderconfirmation.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D997092-82D7-4130-A11C-23B754478F39}|OnlineGymStore\\OnlineGymStore.csproj|solutionrelative:onlinegymstore\\pages\\user\\orderconfirmation.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D997092-82D7-4130-A11C-23B754478F39}|OnlineGymStore\\OnlineGymStore.csproj|D:\\Tech\\code\\NP069470\\NP069470\\OnlineGymStore\\onlinegymstore\\pages\\user\\cart.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D997092-82D7-4130-A11C-23B754478F39}|OnlineGymStore\\OnlineGymStore.csproj|solutionrelative:onlinegymstore\\pages\\user\\cart.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D997092-82D7-4130-A11C-23B754478F39}|OnlineGymStore\\OnlineGymStore.csproj|D:\\Tech\\code\\NP069470\\NP069470\\OnlineGymStore\\onlinegymstore\\pages\\user\\feedback.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{0D997092-82D7-4130-A11C-23B754478F39}|OnlineGymStore\\OnlineGymStore.csproj|solutionrelative:onlinegymstore\\pages\\user\\feedback.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D997092-82D7-4130-A11C-23B754478F39}|OnlineGymStore\\OnlineGymStore.csproj|D:\\Tech\\code\\NP069470\\NP069470\\OnlineGymStore\\onlinegymstore\\pages\\admin\\manageproduct.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D997092-82D7-4130-A11C-23B754478F39}|OnlineGymStore\\OnlineGymStore.csproj|solutionrelative:onlinegymstore\\pages\\admin\\manageproduct.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D997092-82D7-4130-A11C-23B754478F39}|OnlineGymStore\\OnlineGymStore.csproj|D:\\Tech\\code\\NP069470\\NP069470\\OnlineGymStore\\onlinegymstore\\pages\\user\\login.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D997092-82D7-4130-A11C-23B754478F39}|OnlineGymStore\\OnlineGymStore.csproj|solutionrelative:onlinegymstore\\pages\\user\\login.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D997092-82D7-4130-A11C-23B754478F39}|OnlineGymStore\\OnlineGymStore.csproj|D:\\Tech\\code\\NP069470\\NP069470\\OnlineGymStore\\onlinegymstore\\pages\\admin\\viewfeedback.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D997092-82D7-4130-A11C-23B754478F39}|OnlineGymStore\\OnlineGymStore.csproj|solutionrelative:onlinegymstore\\pages\\admin\\viewfeedback.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D997092-82D7-4130-A11C-23B754478F39}|OnlineGymStore\\OnlineGymStore.csproj|D:\\Tech\\code\\NP069470\\NP069470\\OnlineGymStore\\onlinegymstore\\pages\\user\\feedback.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D997092-82D7-4130-A11C-23B754478F39}|OnlineGymStore\\OnlineGymStore.csproj|solutionrelative:onlinegymstore\\pages\\user\\feedback.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D997092-82D7-4130-A11C-23B754478F39}|OnlineGymStore\\OnlineGymStore.csproj|D:\\Tech\\code\\NP069470\\NP069470\\OnlineGymStore\\onlinegymstore\\pages\\user\\signup.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D997092-82D7-4130-A11C-23B754478F39}|OnlineGymStore\\OnlineGymStore.csproj|solutionrelative:onlinegymstore\\pages\\user\\signup.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ManageUsers.aspx.cs",
+              "DocumentMoniker": "D:\\Tech\\code\\NP069470\\NP069470\\OnlineGymStore\\OnlineGymStore\\Pages\\Admin\\ManageUsers.aspx.cs",
+              "RelativeDocumentMoniker": "OnlineGymStore\\Pages\\Admin\\ManageUsers.aspx.cs",
+              "ToolTip": "D:\\Tech\\code\\NP069470\\NP069470\\OnlineGymStore\\OnlineGymStore\\Pages\\Admin\\ManageUsers.aspx.cs",
+              "RelativeToolTip": "OnlineGymStore\\Pages\\Admin\\ManageUsers.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T03:07:05.128Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Site.Master.cs",
+              "DocumentMoniker": "D:\\Tech\\code\\NP069470\\NP069470\\OnlineGymStore\\OnlineGymStore\\Site.Master.cs",
+              "RelativeDocumentMoniker": "OnlineGymStore\\Site.Master.cs",
+              "ToolTip": "D:\\Tech\\code\\NP069470\\NP069470\\OnlineGymStore\\OnlineGymStore\\Site.Master.cs",
+              "RelativeToolTip": "OnlineGymStore\\Site.Master.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAxwEwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T05:35:39.551Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "About.aspx",
+              "DocumentMoniker": "D:\\Tech\\code\\NP069470\\NP069470\\OnlineGymStore\\OnlineGymStore\\Pages\\User\\About.aspx",
+              "RelativeDocumentMoniker": "OnlineGymStore\\Pages\\User\\About.aspx",
+              "ToolTip": "D:\\Tech\\code\\NP069470\\NP069470\\OnlineGymStore\\OnlineGymStore\\Pages\\User\\About.aspx",
+              "RelativeToolTip": "OnlineGymStore\\Pages\\User\\About.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-04-10T01:45:52.308Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Products.aspx",
+              "DocumentMoniker": "D:\\Tech\\code\\NP069470\\NP069470\\OnlineGymStore\\OnlineGymStore\\Pages\\User\\Products.aspx",
+              "RelativeDocumentMoniker": "OnlineGymStore\\Pages\\User\\Products.aspx",
+              "ToolTip": "D:\\Tech\\code\\NP069470\\NP069470\\OnlineGymStore\\OnlineGymStore\\Pages\\User\\Products.aspx",
+              "RelativeToolTip": "OnlineGymStore\\Pages\\User\\Products.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-04-09T15:28:51.566Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LandingPage.aspx",
+              "DocumentMoniker": "D:\\Tech\\code\\NP069470\\NP069470\\OnlineGymStore\\OnlineGymStore\\Pages\\User\\LandingPage.aspx",
+              "RelativeDocumentMoniker": "OnlineGymStore\\Pages\\User\\LandingPage.aspx",
+              "ToolTip": "D:\\Tech\\code\\NP069470\\NP069470\\OnlineGymStore\\OnlineGymStore\\Pages\\User\\LandingPage.aspx",
+              "RelativeToolTip": "OnlineGymStore\\Pages\\User\\LandingPage.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-04-07T14:09:08.11Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Login.aspx",
+              "DocumentMoniker": "D:\\Tech\\code\\NP069470\\NP069470\\OnlineGymStore\\OnlineGymStore\\Pages\\User\\Login.aspx",
+              "RelativeDocumentMoniker": "OnlineGymStore\\Pages\\User\\Login.aspx",
+              "ToolTip": "D:\\Tech\\code\\NP069470\\NP069470\\OnlineGymStore\\OnlineGymStore\\Pages\\User\\Login.aspx",
+              "RelativeToolTip": "OnlineGymStore\\Pages\\User\\Login.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-04-09T01:55:33.318Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Dashboard.aspx",
+              "DocumentMoniker": "D:\\Tech\\code\\NP069470\\NP069470\\OnlineGymStore\\OnlineGymStore\\Pages\\Admin\\Dashboard.aspx",
+              "RelativeDocumentMoniker": "OnlineGymStore\\Pages\\Admin\\Dashboard.aspx",
+              "ToolTip": "D:\\Tech\\code\\NP069470\\NP069470\\OnlineGymStore\\OnlineGymStore\\Pages\\Admin\\Dashboard.aspx",
+              "RelativeToolTip": "OnlineGymStore\\Pages\\Admin\\Dashboard.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-04-09T05:35:19.49Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Site.Master",
+              "DocumentMoniker": "D:\\Tech\\code\\NP069470\\NP069470\\OnlineGymStore\\OnlineGymStore\\Site.Master",
+              "RelativeDocumentMoniker": "OnlineGymStore\\Site.Master",
+              "ToolTip": "D:\\Tech\\code\\NP069470\\NP069470\\OnlineGymStore\\OnlineGymStore\\Site.Master",
+              "RelativeToolTip": "OnlineGymStore\\Site.Master",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-04-07T14:43:45.693Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Admin.Master",
+              "DocumentMoniker": "D:\\Tech\\code\\NP069470\\NP069470\\OnlineGymStore\\OnlineGymStore\\Pages\\Admin\\Admin.Master",
+              "RelativeDocumentMoniker": "OnlineGymStore\\Pages\\Admin\\Admin.Master",
+              "ToolTip": "D:\\Tech\\code\\NP069470\\NP069470\\OnlineGymStore\\OnlineGymStore\\Pages\\Admin\\Admin.Master",
+              "RelativeToolTip": "OnlineGymStore\\Pages\\Admin\\Admin.Master",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-04-07T12:27:14.053Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Checkout.aspx",
+              "DocumentMoniker": "D:\\Tech\\code\\NP069470\\NP069470\\OnlineGymStore\\OnlineGymStore\\Pages\\User\\Checkout.aspx",
+              "RelativeDocumentMoniker": "OnlineGymStore\\Pages\\User\\Checkout.aspx",
+              "ToolTip": "D:\\Tech\\code\\NP069470\\NP069470\\OnlineGymStore\\OnlineGymStore\\Pages\\User\\Checkout.aspx",
+              "RelativeToolTip": "OnlineGymStore\\Pages\\User\\Checkout.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-04-09T15:47:04.389Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Cart.aspx",
+              "DocumentMoniker": "D:\\Tech\\code\\NP069470\\NP069470\\OnlineGymStore\\OnlineGymStore\\Pages\\User\\Cart.aspx",
+              "RelativeDocumentMoniker": "OnlineGymStore\\Pages\\User\\Cart.aspx",
+              "ToolTip": "D:\\Tech\\code\\NP069470\\NP069470\\OnlineGymStore\\OnlineGymStore\\Pages\\User\\Cart.aspx",
+              "RelativeToolTip": "OnlineGymStore\\Pages\\User\\Cart.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-04-09T15:31:47.987Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Products.aspx.cs",
+              "DocumentMoniker": "D:\\Tech\\code\\NP069470\\NP069470\\OnlineGymStore\\OnlineGymStore\\Pages\\User\\Products.aspx.cs",
+              "RelativeDocumentMoniker": "OnlineGymStore\\Pages\\User\\Products.aspx.cs",
+              "ToolTip": "D:\\Tech\\code\\NP069470\\NP069470\\OnlineGymStore\\OnlineGymStore\\Pages\\User\\Products.aspx.cs",
+              "RelativeToolTip": "OnlineGymStore\\Pages\\User\\Products.aspx.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAgwAoBAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T15:30:02.785Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "GridView.js",
+              "DocumentMoniker": "D:\\Tech\\code\\NP069470\\NP069470\\OnlineGymStore\\OnlineGymStore\\Scripts\\WebForms\\GridView.js",
+              "RelativeDocumentMoniker": "OnlineGymStore\\Scripts\\WebForms\\GridView.js",
+              "ToolTip": "D:\\Tech\\code\\NP069470\\NP069470\\OnlineGymStore\\OnlineGymStore\\Scripts\\WebForms\\GridView.js",
+              "RelativeToolTip": "OnlineGymStore\\Scripts\\WebForms\\GridView.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-04-10T16:23:32.378Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "MyOrders.aspx",
+              "DocumentMoniker": "D:\\Tech\\code\\NP069470\\NP069470\\OnlineGymStore\\OnlineGymStore\\Pages\\User\\MyOrders.aspx",
+              "RelativeDocumentMoniker": "OnlineGymStore\\Pages\\User\\MyOrders.aspx",
+              "ToolTip": "D:\\Tech\\code\\NP069470\\NP069470\\OnlineGymStore\\OnlineGymStore\\Pages\\User\\MyOrders.aspx",
+              "RelativeToolTip": "OnlineGymStore\\Pages\\User\\MyOrders.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-04-09T15:52:32.783Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ViewFeedback.aspx",
+              "DocumentMoniker": "D:\\Tech\\code\\NP069470\\NP069470\\OnlineGymStore\\OnlineGymStore\\Pages\\Admin\\ViewFeedback.aspx",
+              "RelativeDocumentMoniker": "OnlineGymStore\\Pages\\Admin\\ViewFeedback.aspx",
+              "ToolTip": "D:\\Tech\\code\\NP069470\\NP069470\\OnlineGymStore\\OnlineGymStore\\Pages\\Admin\\ViewFeedback.aspx",
+              "RelativeToolTip": "OnlineGymStore\\Pages\\Admin\\ViewFeedback.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-04-07T12:12:43.699Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Dashboard.aspx.cs",
+              "DocumentMoniker": "D:\\Tech\\code\\NP069470\\NP069470\\OnlineGymStore\\OnlineGymStore\\Pages\\Admin\\Dashboard.aspx.cs",
+              "RelativeDocumentMoniker": "OnlineGymStore\\Pages\\Admin\\Dashboard.aspx.cs",
+              "ToolTip": "D:\\Tech\\code\\NP069470\\NP069470\\OnlineGymStore\\OnlineGymStore\\Pages\\Admin\\Dashboard.aspx.cs",
+              "RelativeToolTip": "OnlineGymStore\\Pages\\Admin\\Dashboard.aspx.cs",
+              "ViewState": "AgIAACcBAAAAAAAAAAAwwAgBAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T05:35:22.425Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ManageOrders.aspx.cs",
+              "DocumentMoniker": "D:\\Tech\\code\\NP069470\\NP069470\\OnlineGymStore\\OnlineGymStore\\Pages\\Admin\\ManageOrders.aspx.cs",
+              "RelativeDocumentMoniker": "OnlineGymStore\\Pages\\Admin\\ManageOrders.aspx.cs",
+              "ToolTip": "D:\\Tech\\code\\NP069470\\NP069470\\OnlineGymStore\\OnlineGymStore\\Pages\\Admin\\ManageOrders.aspx.cs",
+              "RelativeToolTip": "OnlineGymStore\\Pages\\Admin\\ManageOrders.aspx.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAuwA4AAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T15:56:51.271Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "OrderConfirmation.aspx",
+              "DocumentMoniker": "D:\\Tech\\code\\NP069470\\NP069470\\OnlineGymStore\\OnlineGymStore\\Pages\\User\\OrderConfirmation.aspx",
+              "RelativeDocumentMoniker": "OnlineGymStore\\Pages\\User\\OrderConfirmation.aspx",
+              "ToolTip": "D:\\Tech\\code\\NP069470\\NP069470\\OnlineGymStore\\OnlineGymStore\\Pages\\User\\OrderConfirmation.aspx",
+              "RelativeToolTip": "OnlineGymStore\\Pages\\User\\OrderConfirmation.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-04-09T15:49:03.611Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Checkout.aspx.cs",
+              "DocumentMoniker": "D:\\Tech\\code\\NP069470\\NP069470\\OnlineGymStore\\OnlineGymStore\\Pages\\User\\Checkout.aspx.cs",
+              "RelativeDocumentMoniker": "OnlineGymStore\\Pages\\User\\Checkout.aspx.cs",
+              "ToolTip": "D:\\Tech\\code\\NP069470\\NP069470\\OnlineGymStore\\OnlineGymStore\\Pages\\User\\Checkout.aspx.cs",
+              "RelativeToolTip": "OnlineGymStore\\Pages\\User\\Checkout.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEABAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T15:47:38.753Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Login.aspx.cs",
+              "DocumentMoniker": "D:\\Tech\\code\\NP069470\\NP069470\\OnlineGymStore\\OnlineGymStore\\Pages\\User\\Login.aspx.cs",
+              "RelativeDocumentMoniker": "OnlineGymStore\\Pages\\User\\Login.aspx.cs",
+              "ToolTip": "D:\\Tech\\code\\NP069470\\NP069470\\OnlineGymStore\\OnlineGymStore\\Pages\\User\\Login.aspx.cs",
+              "RelativeToolTip": "OnlineGymStore\\Pages\\User\\Login.aspx.cs",
+              "ViewState": "AgIAAFwAAAAAAAAAAAAowJoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T12:44:45.135Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "MyOrders.aspx.cs",
+              "DocumentMoniker": "D:\\Tech\\code\\NP069470\\NP069470\\OnlineGymStore\\OnlineGymStore\\Pages\\User\\MyOrders.aspx.cs",
+              "RelativeDocumentMoniker": "OnlineGymStore\\Pages\\User\\MyOrders.aspx.cs",
+              "ToolTip": "D:\\Tech\\code\\NP069470\\NP069470\\OnlineGymStore\\OnlineGymStore\\Pages\\User\\MyOrders.aspx.cs",
+              "RelativeToolTip": "OnlineGymStore\\Pages\\User\\MyOrders.aspx.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAwA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T15:53:02.076Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ManageOrders.aspx",
+              "DocumentMoniker": "D:\\Tech\\code\\NP069470\\NP069470\\OnlineGymStore\\OnlineGymStore\\Pages\\Admin\\ManageOrders.aspx",
+              "RelativeDocumentMoniker": "OnlineGymStore\\Pages\\Admin\\ManageOrders.aspx",
+              "ToolTip": "D:\\Tech\\code\\NP069470\\NP069470\\OnlineGymStore\\OnlineGymStore\\Pages\\Admin\\ManageOrders.aspx",
+              "RelativeToolTip": "OnlineGymStore\\Pages\\Admin\\ManageOrders.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-04-09T15:55:51.244Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "OrderConfirmation.aspx.cs",
+              "DocumentMoniker": "D:\\Tech\\code\\NP069470\\NP069470\\OnlineGymStore\\OnlineGymStore\\Pages\\User\\OrderConfirmation.aspx.cs",
+              "RelativeDocumentMoniker": "OnlineGymStore\\Pages\\User\\OrderConfirmation.aspx.cs",
+              "ToolTip": "D:\\Tech\\code\\NP069470\\NP069470\\OnlineGymStore\\OnlineGymStore\\Pages\\User\\OrderConfirmation.aspx.cs",
+              "RelativeToolTip": "OnlineGymStore\\Pages\\User\\OrderConfirmation.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T15:49:39.765Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Cart.aspx.cs",
+              "DocumentMoniker": "D:\\Tech\\code\\NP069470\\NP069470\\OnlineGymStore\\OnlineGymStore\\Pages\\User\\Cart.aspx.cs",
+              "RelativeDocumentMoniker": "OnlineGymStore\\Pages\\User\\Cart.aspx.cs",
+              "ToolTip": "D:\\Tech\\code\\NP069470\\NP069470\\OnlineGymStore\\OnlineGymStore\\Pages\\User\\Cart.aspx.cs",
+              "RelativeToolTip": "OnlineGymStore\\Pages\\User\\Cart.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T15:32:22.482Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ManageProduct.aspx.cs",
+              "DocumentMoniker": "D:\\Tech\\code\\NP069470\\NP069470\\OnlineGymStore\\OnlineGymStore\\Pages\\Admin\\ManageProduct.aspx.cs",
+              "RelativeDocumentMoniker": "OnlineGymStore\\Pages\\Admin\\ManageProduct.aspx.cs",
+              "ToolTip": "D:\\Tech\\code\\NP069470\\NP069470\\OnlineGymStore\\OnlineGymStore\\Pages\\Admin\\ManageProduct.aspx.cs",
+              "RelativeToolTip": "OnlineGymStore\\Pages\\Admin\\ManageProduct.aspx.cs",
+              "ViewState": "AgIAAKsBAAAAAAAAAAAswM8BAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T05:50:41.883Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Feedback.aspx",
+              "DocumentMoniker": "D:\\Tech\\code\\NP069470\\NP069470\\OnlineGymStore\\OnlineGymStore\\Pages\\User\\Feedback.aspx",
+              "RelativeDocumentMoniker": "OnlineGymStore\\Pages\\User\\Feedback.aspx",
+              "ToolTip": "D:\\Tech\\code\\NP069470\\NP069470\\OnlineGymStore\\OnlineGymStore\\Pages\\User\\Feedback.aspx",
+              "RelativeToolTip": "OnlineGymStore\\Pages\\User\\Feedback.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-04-07T12:02:06.682Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Login.aspx.designer.cs",
+              "DocumentMoniker": "D:\\Tech\\code\\NP069470\\NP069470\\OnlineGymStore\\OnlineGymStore\\Pages\\User\\Login.aspx.designer.cs",
+              "RelativeDocumentMoniker": "OnlineGymStore\\Pages\\User\\Login.aspx.designer.cs",
+              "ToolTip": "D:\\Tech\\code\\NP069470\\NP069470\\OnlineGymStore\\OnlineGymStore\\Pages\\User\\Login.aspx.designer.cs",
+              "RelativeToolTip": "OnlineGymStore\\Pages\\User\\Login.aspx.designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T02:29:11.692Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Signup.aspx.cs",
+              "DocumentMoniker": "D:\\Tech\\code\\NP069470\\NP069470\\OnlineGymStore\\OnlineGymStore\\Pages\\User\\Signup.aspx.cs",
+              "RelativeDocumentMoniker": "OnlineGymStore\\Pages\\User\\Signup.aspx.cs",
+              "ToolTip": "D:\\Tech\\code\\NP069470\\NP069470\\OnlineGymStore\\OnlineGymStore\\Pages\\User\\Signup.aspx.cs",
+              "RelativeToolTip": "OnlineGymStore\\Pages\\User\\Signup.aspx.cs",
+              "ViewState": "AgIAAHgAAAAAAAAAAAAqwKIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T12:45:15.472Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ViewFeedback.aspx.cs",
+              "DocumentMoniker": "D:\\Tech\\code\\NP069470\\NP069470\\OnlineGymStore\\OnlineGymStore\\Pages\\Admin\\ViewFeedback.aspx.cs",
+              "RelativeDocumentMoniker": "OnlineGymStore\\Pages\\Admin\\ViewFeedback.aspx.cs",
+              "ToolTip": "D:\\Tech\\code\\NP069470\\NP069470\\OnlineGymStore\\OnlineGymStore\\Pages\\Admin\\ViewFeedback.aspx.cs",
+              "RelativeToolTip": "OnlineGymStore\\Pages\\Admin\\ViewFeedback.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T12:13:09.452Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Feedback.aspx.cs",
+              "DocumentMoniker": "D:\\Tech\\code\\NP069470\\NP069470\\OnlineGymStore\\OnlineGymStore\\Pages\\User\\Feedback.aspx.cs",
+              "RelativeDocumentMoniker": "OnlineGymStore\\Pages\\User\\Feedback.aspx.cs",
+              "ToolTip": "D:\\Tech\\code\\NP069470\\NP069470\\OnlineGymStore\\OnlineGymStore\\Pages\\User\\Feedback.aspx.cs",
+              "RelativeToolTip": "OnlineGymStore\\Pages\\User\\Feedback.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T12:11:51.975Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
